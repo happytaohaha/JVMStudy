@@ -17,6 +17,7 @@ class User{
  * @Author 严涛
  * @Date 2019/5/16
  * @Description 原子引用
+ * 总结： 只能进行一次修改
  */
 public class AtomicReferenceDemo {
     public static void main(String[] args) {
